@@ -1,0 +1,81 @@
+{
+    "menu":[
+      {
+        "kategori": "Minuman",
+        "nama": "Pinneaple Punch Fizz",
+        "deskripsi": "Pinneaple Punch Fizz adalah minuman soda (Sprite) dingin dengan rasa buah Nanas dengan bulir nata de coco yang menyegarkan",
+        "harga": 24000,
+        "gambar": "Pinneaple Punch Fizz.png "
+      },
+      {
+        "kategori": "Minuman",
+        "nama": "Apple Fizz",
+        "deskripsi": "Minuman Bersoda dengan rasa aple yang manis menyegarkan.",
+        "harga": 24000,
+        "gambar": "aple.png"
+      },
+      {
+        "kategori": "Minuman",
+        "nama": "McFreeze Blueberry",
+        "deskripsi": "Minuman berkarbonasi berupa bulir es halus dengan rasa Fanta Blueberry",
+        "harga": 24000,
+        "gambar": "blubery.png"
+      },
+      {
+        "kategori": "Minuman",
+        "nama": "McFreeze Fanta Grape",
+        "deskripsi": "Minuman berkarbonasi berupa bulir es yang sangat halus dengan rasa Fanta Grape",
+        "harga": 24000,
+        "gambar": "grape.png"
+      },
+      {
+        "kategori": "Minuman",
+        "nama": "Fruit Tea Lemon",
+        "deskripsi": "Teh rasa buah lemon yang segar",
+        "harga": 24000,
+        "gambar": "lemon tea.png"
+      },
+      {
+        "kategori": "Minuman",
+        "nama": "Coca-Cola McFloat",
+        "deskripsi": "Minuman berkarbonasi dengan rasa cola dengan tambahan es krim vanilla McDonald's",
+        "harga": 24000,
+        "gambar": "coca cola.png"
+      },
+      {
+        "kategori": "Minuman",
+        "nama": "Hot Coffee",
+        "deskripsi": "Kopi 100% Arabica pilihan yang tersaji panas",
+        "harga": 24000,
+        "gambar": "kopi.png"
+      },
+      {
+        "kategori": "Minuman",
+        "nama": "Iced Lychee Tea",
+        "deskripsi": "Iced tea dengan rasa dan sensasi buah leci",
+        "harga": 24000,
+        "gambar": "leci.png"
+      },
+      {
+        "kategori": "Minuman",
+        "nama": "Iced Milo",
+        "deskripsi": "Susu coklat Milo yang segar dan bernutrisi",
+        "harga": 24000,
+        "gambar": "milo.png"
+      },
+      {
+        "kategori": "Minuman",
+        "nama": "Iced Coffee Jelly Float",
+        "deskripsi": "Es kopi 100% Arabika dengan susu yang segar dan tambahan jelly serta es krim yang yummy",
+        "harga": 24000,
+        "gambar": "coffe jelly.png"
+      },
+      {
+        "kategori": "Minuman",
+        "nama": "Iced Coffee Float",
+        "deskripsi": "Es kopi 100% Arabika dengan susu yang segar dan tambahan es krim vanilla khas McDonald's",
+        "harga": 24000,
+        "gambar": "coffe float.png"
+      }
+    ]
+}

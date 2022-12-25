@@ -1,0 +1,242 @@
+{
+  "menu": [
+    {
+      "kategori": "Sarapan pagi",
+      "nama": "Bubur Ayam McD",
+      "deskripsi": "Bubur ayam klasik disajikan dengan seledri dan bawang goreng renyah, tersedia jam 5-11 pagi",
+      "harga": 13.0,
+      "gambar": "bubur-ayam.png"
+    },
+    {
+      "kategori": "Sarapan pagi",
+      "nama": "Nasi Uduk McD",
+      "deskripsi": "Nasi uduk gurih dengan topping sambal terasi, scrambled egg, bawang goreng, kini makin lengkap dengan suwiran ayam goreng",
+      "harga": 49500,
+      "gambar": "nasi-uduk.png"
+    },
+    {
+      "kategori": "Sarapan pagi",
+      "nama": "Breakfast Wrap",
+      "deskripsi": "Paduan daging ayam asap, scrambled egg, dan keju gurih dalam balutan tortilla yang lembut, tersedia jam 5-11 pagi",
+      "harga": 49500,
+      "gambar": "breakfast-wrap.png"
+    },
+    {
+      "kategori": "Sarapan pagi",
+      "nama": "Big Breakfast",
+      "deskripsi": "Perpaduan English Muffin panggang yang disajikan dengan sosis ayam gurih, renyahnya Hashbrown serta lembutnya scrambled egg. Tersedia dari jam 5-11 pagi.",
+      "harga": 49500,
+      "gambar": "big-breakfast.png"
+    },
+    {
+      "kategori": "Sarapan pagi",
+      "nama": "Chicken Muffin with Egg",
+      "deskripsi": "Setangkup English muffin hangat dilapisi dengan saus mayonais, daging ayam olahan yang digoreng sempurna, telur, dan keju. Tersedia dari jam 5-11 pagi..",
+      "harga": 43000,
+      "gambar": "chiken burger.png"
+    },
+    {
+      "kategori": "Sarapan pagi",
+      "nama": "Hotcakes 3 pcs",
+      "deskripsi": "3 Panekuk lembut dan hangat berlumur sirup maple dan mentega gurih",
+      "harga": 43000,
+      "gambar": "pancake.png"
+    },
+    {
+      "kategori": "Ayam",
+      "nama": "PaNas Spesial Ayam McD Kimchi",
+      "deskripsi": "Ayam McD yang disajikan dengan saus Kimchi dari Sawi Segar. Lengkap dengan Nasi, lembutnya scramble egg dan Apple Fizz yang menyegarkan. Tersedia pilihan Krispy/Spicy",
+      "harga": 40000,
+      "gambar": "panas spesial.png"
+    },
+    {
+      "kategori": "Ayam",
+      "nama": "PaNas 2 with French Fries Ayam McD Kimchi",
+      "deskripsi": "2 potong Ayam McD yang disajikan dengan saus Kimchi dari Sawi Segar. Lengkap dengan Kentang Goreng khas McD dan Apple Fizz yang menyegarkan.",
+      "harga": 48000,
+      "gambar": "panas2.png"
+    },
+    {
+      "kategori": "Ayam",
+      "nama": "PaMer 5 Ayam McD Kimchi",
+      "deskripsi": "Paket Rame Rame untuk 3 orang. Puas dengan 5 Potong Ayam McD Kimchi, 3 Nasi dan 3 Apple Fizz. Tersedia pilihan Krispy/Spicy/Mix",
+      "harga": 43000,
+      "gambar": "pamer5.png"
+    },
+    {
+      "kategori": "Ayam",
+      "nama": "PaNas 2 with Rice",
+      "deskripsi": "2 pcs Ayam Goreng khas McDonald's dengan nasi hangat dan minuman FruitTea lemon yang menyegarkan. Tersedia dalam pilihan Ayam Krispy atau Spicy",
+      "harga": 40000,
+      "gambar": "panas nasi.png"
+    },
+    {
+      "kategori": "Ayam",
+      "nama": "Honey Garlic Chicken Rice McD",
+      "deskripsi": "Nasi hangat dengan topping daging ayam disajikan dengan saus honey garlic",
+      "harga": 40000,
+      "gambar": "honey garlic.png"
+    },
+    {
+      "kategori": "Ayam",
+      "nama": "Rica-rica Chicken Rice McD",
+      "deskripsi": "Saus rica-rica pedas di atas nasi hangat dan daging ayam pilihan.",
+      "harga": 40000,
+      "gambar": "rica rica.png"
+    },
+    {
+      "kategori": "Ikan",
+      "nama": "Fish Prosperity Burger",
+      "deskripsi": "Burger dengan daging fillet ikan Nila dengan saus lada hitam/black pepper, ditambah dengan bawang bombai, yang disajikan dalam setangkup roti panjang bertabur wijen",
+      "harga": 24000,
+      "gambar": "fish burger.png"
+    },
+    {
+      "kategori": "Ikan",
+      "nama": "Fish Snack Wrap",
+      "deskripsi": "Daging ikan digoreng renyah dengan selada segar, keju istimewa dan saus spesial dalam balutan tortilla yang lembut",
+      "harga": 24000,
+      "gambar": "fish snack.png"
+    },
+    {
+      "kategori": "Ikan",
+      "nama": "Fish Fillet Burger",
+      "deskripsi": "Daging ikan pilihan, dengan saus tartar dan keju istimewa dalam setangkup roti lembut kukus",
+      "harga": 24000,
+      "gambar": "ikan fillet.png"
+    },
+    {
+      "kategori": "Ikan",
+      "nama": "Honey Garlic Fish Rice McD",
+      "deskripsi": "Nasi hangat dengan topping daging ikan disajikan dengan saus honey garlic",
+      "harga": 24000,
+      "gambar": "honey garlic.png"
+    },
+    {
+      "kategori": "Ikan",
+      "nama": "Rica-rica Fish Rice McD",
+      "deskripsi": "Saus rica-rica pedas di atas nasi hangat dan daging ikan yang digoreng sempurna.",
+      "harga": 24000,
+      "gambar": "rica rica fish.png"
+    },
+    {
+      "kategori": "Minuman",
+      "nama": "Pinneaple Punch Fizz",
+      "deskripsi": "Pinneaple Punch Fizz adalah minuman soda (Sprite) dingin dengan rasa buah Nanas dengan bulir nata de coco yang menyegarkan",
+      "harga": 24000,
+      "gambar": "Pinneaple Punch Fizz.png "
+    },
+    {
+      "kategori": "Minuman",
+      "nama": "Apple Fizz",
+      "deskripsi": "Minuman Bersoda dengan rasa aple yang manis menyegarkan.",
+      "harga": 24000,
+      "gambar": "aple.png"
+    },
+    {
+      "kategori": "Minuman",
+      "nama": "McFreeze Blueberry",
+      "deskripsi": "Minuman berkarbonasi berupa bulir es halus dengan rasa Fanta Blueberry",
+      "harga": 24000,
+      "gambar": "blubery.png"
+    },
+    {
+      "kategori": "Minuman",
+      "nama": "McFreeze Fanta Grape",
+      "deskripsi": "Minuman berkarbonasi berupa bulir es yang sangat halus dengan rasa Fanta Grape",
+      "harga": 24000,
+      "gambar": "grape.png"
+    },
+    {
+      "kategori": "Minuman",
+      "nama": "Fruit Tea Lemon",
+      "deskripsi": "Teh rasa buah lemon yang segar",
+      "harga": 24000,
+      "gambar": "lemon tea.png"
+    },
+    {
+      "kategori": "Minuman",
+      "nama": "Coca-Cola McFloat",
+      "deskripsi": "Minuman berkarbonasi dengan rasa cola dengan tambahan es krim vanilla McDonald's",
+      "harga": 24000,
+      "gambar": "coca cola.png"
+    },
+    {
+      "kategori": "Minuman",
+      "nama": "Hot Coffee",
+      "deskripsi": "Kopi 100% Arabica pilihan yang tersaji panas",
+      "harga": 24000,
+      "gambar": "kopi.png"
+    },
+    {
+      "kategori": "Minuman",
+      "nama": "Iced Lychee Tea",
+      "deskripsi": "Iced tea dengan rasa dan sensasi buah leci",
+      "harga": 24000,
+      "gambar": "leci.png"
+    },
+    {
+      "kategori": "Minuman",
+      "nama": "Iced Milo",
+      "deskripsi": "Susu coklat Milo yang segar dan bernutrisi",
+      "harga": 24000,
+      "gambar": "milo.png"
+    },
+    {
+      "kategori": "Minuman",
+      "nama": "Iced Coffee Jelly Float",
+      "deskripsi": "Es kopi 100% Arabika dengan susu yang segar dan tambahan jelly serta es krim yang yummy",
+      "harga": 24000,
+      "gambar": "coffe jelly.png"
+    },
+    {
+      "kategori": "Minuman",
+      "nama": "Iced Coffee Float",
+      "deskripsi": "Es kopi 100% Arabika dengan susu yang segar dan tambahan es krim vanilla khas McDonald's",
+      "harga": 24000,
+      "gambar": "coffe float.png"
+    },
+    {
+      "kategori": "Makanan Penutup",
+      "nama": "Dark Choco McFlurry with OREO",
+      "deskripsi": "Soft ice cream Vanilla McDonald's dengan cita rasa cokelat pekat, dengan topping OREO.",
+      "harga": 24000,
+      "gambar": "oreo.png"
+    },
+    {
+      "kategori": "Makanan Penutup",
+      "nama": "Dark Choco McFlurry with Crunch",
+      "deskripsi": "Soft ice cream Vanilla McDonald's dengan cita rasa cokelat pekat, dengan topping sereal cokelat.",
+      "harga": 24000,
+      "gambar": "crunch.png"
+    },
+    {
+      "kategori": "Makanan Penutup",
+      "nama": "McFlurry feat. Oreo",
+      "deskripsi": "Es krim vanilla lembut dengan campuran biskuit Oreo Crumbs",
+      "harga": 24000,
+      "gambar": "flurry.png"
+    },
+    {
+      "kategori": "Makanan Penutup",
+      "nama": "McFlurry Choco",
+      "deskripsi": "Es krim vanilla lembut dengan campuran bubuk coklat",
+      "harga": 24000,
+      "gambar": "choco.png"
+    },
+    {
+      "kategori": "Makanan Penutup",
+      "nama": "Strawberry Sundae",
+      "deskripsi": "Es krim vanilla lembut dengan pilihan topping saus strawberry",
+      "harga": 24000,
+      "gambar": "stobery.png"
+    },
+    {
+      "kategori": "Makanan Penutup",
+      "nama": "Chocolate Sundae",
+      "deskripsi": "Es krim vanilla lembut dengan pilihan topping saus coklat",
+      "harga": 24000,
+      "gambar": "coklat.png"
+    }
+  ]
+}

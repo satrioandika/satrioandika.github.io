@@ -1,0 +1,46 @@
+{
+  "menu": [
+    {
+      "kategori": "Sarapan pagi",
+      "nama": "Bubur Ayam McD",
+      "deskripsi": "Bubur ayam klasik disajikan dengan seledri dan bawang goreng renyah, tersedia jam 5-11 pagi",
+      "harga": 49500,
+      "gambar": "bubur-ayam.png"
+    },
+    {
+      "kategori": "Sarapan pagi",
+      "nama": "Nasi Uduk McD",
+      "deskripsi": "Nasi uduk gurih dengan topping sambal terasi, scrambled egg, bawang goreng, kini makin lengkap dengan suwiran ayam goreng",
+      "harga": 49500,
+      "gambar": "nasi-uduk.png"
+    },
+    {
+      "kategori": "Sarapan pagi",
+      "nama": "Breakfast Wrap",
+      "deskripsi": "Paduan daging ayam asap, scrambled egg, dan keju gurih dalam balutan tortilla yang lembut, tersedia jam 5-11 pagi",
+      "harga": 49500,
+      "gambar": "breakfast-wrap.png"
+    },
+    {
+      "kategori": "Sarapan pagi",
+      "nama": "Big Breakfast",
+      "deskripsi": "Perpaduan English Muffin panggang yang disajikan dengan sosis ayam gurih, renyahnya Hashbrown serta lembutnya scrambled egg. Tersedia dari jam 5-11 pagi.",
+      "harga": 49500,
+      "gambar": "big-breakfast.png"
+    },
+    {
+      "kategori": "Sarapan pagi",
+      "nama": "Chicken Muffin with Egg",
+      "deskripsi": "Setangkup English muffin hangat dilapisi dengan saus mayonais, daging ayam olahan yang digoreng sempurna, telur, dan keju. Tersedia dari jam 5-11 pagi..",
+      "harga": 43000,
+      "gambar": "chiken burger.png"
+    },
+    {
+      "kategori": "Sarapan pagi",
+      "nama": "Hotcakes 3 pcs",
+      "deskripsi": "3 Panekuk lembut dan hangat berlumur sirup maple dan mentega gurih",
+      "harga": 43000,
+      "gambar": "pancake.png"
+    }
+]
+}

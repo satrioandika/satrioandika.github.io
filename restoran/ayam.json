@@ -1,0 +1,46 @@
+{
+  "menu" :  [
+    {
+      "kategori": "Ayam",
+      "nama": "PaNas Spesial Ayam McD Kimchi",
+      "deskripsi": "Ayam McD yang disajikan dengan saus Kimchi dari Sawi Segar. Lengkap dengan Nasi, lembutnya scramble egg dan Apple Fizz yang menyegarkan. Tersedia pilihan Krispy/Spicy",
+      "harga": 40000,
+      "gambar": "panas spesial.png"
+    },
+    {
+      "kategori": "Ayam",
+      "nama": "PaNas 2 with French Fries Ayam McD Kimchi",
+      "deskripsi": "2 potong Ayam McD yang disajikan dengan saus Kimchi dari Sawi Segar. Lengkap dengan Kentang Goreng khas McD dan Apple Fizz yang menyegarkan.",
+      "harga": 48000,
+      "gambar": "panas2.png"
+    },
+    {
+      "kategori": "Ayam",
+      "nama": "PaMer 5 Ayam McD Kimchi",
+      "deskripsi": "Paket Rame Rame untuk 3 orang. Puas dengan 5 Potong Ayam McD Kimchi, 3 Nasi dan 3 Apple Fizz. Tersedia pilihan Krispy/Spicy/Mix",
+      "harga": 43000,
+      "gambar": "pamer5.png"
+    },
+    {
+      "kategori": "Ayam",
+      "nama": "PaNas 2 with Rice",
+      "deskripsi": "2 pcs Ayam Goreng khas McDonald's dengan nasi hangat dan minuman FruitTea lemon yang menyegarkan. Tersedia dalam pilihan Ayam Krispy atau Spicy",
+      "harga": 40000,
+      "gambar": "panas nasi.png"
+    },
+    {
+      "kategori": "Ayam",
+      "nama": "Honey Garlic Chicken Rice McD",
+      "deskripsi": "Nasi hangat dengan topping daging ayam disajikan dengan saus honey garlic",
+      "harga": 40000,
+      "gambar": "honey garlic.png"
+    },
+    {
+      "kategori": "Ayam",
+      "nama": "Rica-rica Chicken Rice McD",
+      "deskripsi": "Saus rica-rica pedas di atas nasi hangat dan daging ayam pilihan.",
+      "harga": 40000,
+      "gambar": "rica rica.png"
+    }
+  ]
+}

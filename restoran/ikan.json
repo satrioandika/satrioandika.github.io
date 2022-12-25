@@ -1,0 +1,39 @@
+{
+    "menu" :[
+      {
+        "kategori": "Ikan",
+        "nama": "Fish Prosperity Burger",
+        "deskripsi": "Burger dengan daging fillet ikan Nila dengan saus lada hitam/black pepper, ditambah dengan bawang bombai, yang disajikan dalam setangkup roti panjang bertabur wijen",
+        "harga": 24000,
+        "gambar": "fish burger.png"
+      },
+      {
+        "kategori": "Ikan",
+        "nama": "Fish Snack Wrap",
+        "deskripsi": "Daging ikan digoreng renyah dengan selada segar, keju istimewa dan saus spesial dalam balutan tortilla yang lembut",
+        "harga": 24000,
+        "gambar": "fish snack.png"
+      },
+      {
+        "kategori": "Ikan",
+        "nama": "Fish Fillet Burger",
+        "deskripsi": "Daging ikan pilihan, dengan saus tartar dan keju istimewa dalam setangkup roti lembut kukus",
+        "harga": 24000,
+        "gambar": "ikan fillet.png"
+      },
+      {
+        "kategori": "Ikan",
+        "nama": "Honey Garlic Fish Rice McD",
+        "deskripsi": "Nasi hangat dengan topping daging ikan disajikan dengan saus honey garlic",
+        "harga": 24000,
+        "gambar": "honey garlic.png"
+      },
+      {
+        "kategori": "Ikan",
+        "nama": "Rica-rica Fish Rice McD",
+        "deskripsi": "Saus rica-rica pedas di atas nasi hangat dan daging ikan yang digoreng sempurna.",
+        "harga": 24000,
+        "gambar": "rica rica fish.png"
+      }
+    ]
+}

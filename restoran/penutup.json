@@ -1,0 +1,47 @@
+{
+    "menu" :[
+        {
+      "kategori": "Makanan Penutup",
+      "nama": "Dark Choco McFlurry with OREO",
+      "deskripsi": "Soft ice cream Vanilla McDonald's dengan cita rasa cokelat pekat, dengan topping OREO.",
+      "harga": 24000,
+      "gambar": "oreo.png"
+    },
+    {
+      "kategori": "Makanan Penutup",
+      "nama": "Dark Choco McFlurry with Crunch",
+      "deskripsi": "Soft ice cream Vanilla McDonald's dengan cita rasa cokelat pekat, dengan topping sereal cokelat.",
+      "harga": 24000,
+      "gambar": "crunch.png"
+    },
+    {
+      "kategori": "Makanan Penutup",
+      "nama": "McFlurry feat. Oreo",
+      "deskripsi": "Es krim vanilla lembut dengan campuran biskuit Oreo Crumbs",
+      "harga": 24000,
+      "gambar": "flurry.png"
+    },
+    {
+      "kategori": "Makanan Penutup",
+      "nama": "McFlurry Choco",
+      "deskripsi": "Es krim vanilla lembut dengan campuran bubuk coklat",
+      "harga": 24000,
+      "gambar": "choco.png"
+    },
+    {
+      "kategori": "Makanan Penutup",
+      "nama": "Strawberry Sundae",
+      "deskripsi": "Es krim vanilla lembut dengan pilihan topping saus strawberry",
+      "harga": 24000,
+      "gambar": "stobery.png"
+    },
+    {
+      "kategori": "Makanan Penutup",
+      "nama": "Chocolate Sundae",
+      "deskripsi": "Es krim vanilla lembut dengan pilihan topping saus coklat",
+      "harga": 24000,
+      "gambar": "coklat.png"
+    }
+  ]
+}
+    
